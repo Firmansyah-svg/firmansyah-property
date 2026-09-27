@@ -1,0 +1,16 @@
+PAKET WEBSITE FIRMANSYAH — MUDAH DIUPLOAD DARI HP
+
+Upload 6 file ini langsung ke repository GitHub:
+1. index.html
+2. style.css
+3. script.js
+4. logo-avenue.jpg
+5. rumah-avenue.jpg
+6. logo-bmi.jpg
+
+Semua file harus berada di halaman utama repository (root), jangan dimasukkan ke folder lain.
+
+Setelah keenam file berhasil di-upload:
+Settings → Pages → Source: Deploy from a branch → Branch: main → Folder: / (root) → Save.
+
+Jangan upload file ZIP ke GitHub Pages. ZIP ini hanya untuk memindahkan keenam file dengan mudah dari HP.
